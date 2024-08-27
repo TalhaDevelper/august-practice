@@ -1,0 +1,21 @@
+//	for initializing
+git init
+git status
+git add. 	OR	git add filename
+git commit -m "message"
+git remote  RepoLink
+git push -u origin master
+
+//	for modifying
+git init 
+git status 
+git add. 	OR	git add filename
+git commit -m "message"
+git push
+
+//	for download
+cd Desktop
+git clone RepoLink
+
+for practice 
+https://gist.github.com/rahuljadon99/366c7b659138a4366a18c6b1d1c390fa
